@@ -24,7 +24,7 @@ The URDF was validated using the check_urdf utility:
 
 Robot Name: hand_robo_arm
 
-Successfully Parsed XML 
+Successfully Parsed XML --
 Root Link: world has 1 child(ren)
 child(1):  base_link
 child(1):  base_plate
