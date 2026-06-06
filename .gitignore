@@ -1,0 +1,13 @@
+# Ignore local build artifacts
+build/
+install/
+log/
+
+# Ignore Python cache profiles
+__pycache__/
+*.pyc
+
+# Ignore system local edits
+.DS_Store
+.vscode/
+*.swp
