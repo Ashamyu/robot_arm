@@ -251,14 +251,6 @@ This enables:
 
 ---
 
-## MoveIt 2 Motion Planning
-
-```markdown
-![MoveIt 2 Planning](images/moveit_plan.gif)
-```
-
----
-
 # Challenges and Solutions
 
 ## Duplicate Package Error in Colcon
