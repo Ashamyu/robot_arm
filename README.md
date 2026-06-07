@@ -251,16 +251,6 @@ This enables:
 
 ---
 
-# Screenshots and Media
-
-Add your screenshots or GIF demonstrations here after testing.
-
-## RViz 2 Visualization
-
-```markdown
-![RViz 2 Model](images/rviz_model.png)
-```
-
 ## MoveIt 2 Motion Planning
 
 ```markdown
